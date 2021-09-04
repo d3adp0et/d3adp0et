@@ -2,7 +2,5 @@
 [![Header](https://github.com/tanmaysharma015/tanmaysharma015/blob/main/assets/Banner.gif "Header")](https://github.com/tanmaysharma015)
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tanmaysharma015&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-lang>/?username=tanmaysharma015&theme=midnight-purple" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmaysharma015&show_icons=true&theme=midnight-purple)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysharma015&show_icons=true&theme=midnight-purple)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?username=tanmaysharma015&theme=midnight-purple" />
 
