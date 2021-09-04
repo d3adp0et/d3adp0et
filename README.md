@@ -3,5 +3,6 @@
 [![Header](https://github.com/tanmaysharma015/tanmaysharma015/blob/main/assets/Banner.gif "Header")](https://github.com/tanmaysharma015)
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tanmaysharma015&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/streak/?username=tanmaysharma015&theme=midnight-purple" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysharma015&theme=midnight-purple" />
