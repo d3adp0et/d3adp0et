@@ -1,5 +1,5 @@
-### Hello There... I am the coder you are looking for <img src="https://github.com/tanmaysharma015/tanmaysharma015/blob/main/assets/wave.gif" width="30px">
-### You are looking at my, Tanmay Sharma's GitHub Profile 👀  
+### Hello There<img src="https://github.com/tanmaysharma015/tanmaysharma015/blob/main/assets/wave.gif" width="30px">... I am the coder you are looking for 
+
 
 <!--
 **tanmaysharma015/tanmaysharma015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
