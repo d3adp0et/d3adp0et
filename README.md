@@ -17,7 +17,7 @@ Currently working on a Phishing detection system 💻<br>and currently learning 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanmaysharma015&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
+## 🐶 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Chroniclenickel)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
