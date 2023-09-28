@@ -26,9 +26,6 @@ Currently working on a Phishing detection system 💻<br>and currently learning 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanmaysharma015&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tanmaysharma015&icon=5&color=0)](https://visitcount.itsvg.in)
 
