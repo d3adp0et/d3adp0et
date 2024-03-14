@@ -1,7 +1,7 @@
 ### <p align="center">Hello There <img src="https://github.com/tanmaysharma015/tanmaysharma015/blob/main/assets/wave.gif" width="30px">... I am the hacker you are looking for</p>
 ---
 # 💫 About Me:
-Currently working on a Phishing detection system 💻<br>and currently learning offsec and networking 🗼
+Currently working on a data encryption algorithm involving zero knowledge proofs 💻<br>and currently learning offsec and networking 🗼
 
 
 ## 🌐 Socials:
