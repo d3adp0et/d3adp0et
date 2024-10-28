@@ -1,7 +1,7 @@
 ### <p align="center">Hello There <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/wave.gif" width="30px">... I am the hacker you are looking for</p>
 ---
 # 💫 About Me:
-Currently working on a data encryption algorithm involving zero knowledge proofs 💻<br>and continuously engaged in offsec and networking 🗼
+Currently learning RUST and building a static portfolio for meself 💻<br>and continuously engaged in offsec and networking 🗼
 
 
 ## 🌐 Socials:
