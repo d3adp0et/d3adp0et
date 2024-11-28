@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Hello There <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/wave.gif" width="30px">...</b> I am the hacker you are looking for.
+  <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/hello.gif?raw=true" width="400px" alt="hello there">
 </p>
 
 ---
