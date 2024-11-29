@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/hello%20big.gif?raw=true" 
-       style="border-radius: 20px; width: 100%; max-width: 600px;" 
+       width="600" 
+       style="border-radius: 20px;" 
        alt="hello there">
 </p>
+
 
 
 ---
