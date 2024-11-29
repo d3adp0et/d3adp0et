@@ -17,7 +17,7 @@ Always engaged in **offensive security** and **networking**, because there's no 
 
 # 📊 GitHub Arsenal:
 ![](https://github-readme-stats.vercel.app/api?username=SirChronicle&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SirChronicle&hide_border=true&background=000000&fire=8A2BE2&ring=9370DB&currStreakLabel=9370DB&sideNums=8A2BE2&sideLabels=9370DB&dates=D8BFD8)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=SirChronicle&hide_border=true&background=000000&fire=8A2BE2&ring=9370DB&currStreakLabel=8A2BE2&sideNums=8A2BE2&sideLabels=9370DB&dates=D8BFD8)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirChronicle&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB)
 
 ## 🏆 GitHub Trophies
