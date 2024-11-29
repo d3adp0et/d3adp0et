@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/hello%20big.gif?raw=true" width="max-width: 100%" alt="hello there">
+  <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/hello%20big.gif?raw=true" style="border-radius: 20px" width="max-width: 100%" alt="hello there">
 </p>
 
 ---
