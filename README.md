@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/hello%20big.gif?raw=true" 
-       width="600" 
-       style="border-radius: 20px;" 
-       alt="hello there">
+ <p align="center">
+  <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/hello%20big.gif?raw=true" width="max-width: 100%" alt="hello there">
 </p>
-
 
 
 ---
