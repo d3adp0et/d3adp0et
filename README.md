@@ -2,6 +2,11 @@
   <img src="https://github.com/SirChronicle/SirChronicle/blob/main/assets/hello%20big.gif?raw=true" width="max-width: 100%" alt="hello there">
 </p>
 
+<p align="center">
+  <a href="https://github.com/SirChronicle">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=8A2BE2&center=true&vCenter=true&lines=Cybersecurity+Graduate;Red+Teamer;Open+Source+Contributor" alt="Typing Animation" />
+  </a>
+</p>
 
 ---
 
