@@ -8,11 +8,11 @@
 I'm diving deep into the shadows of **RUST** and crafting a hardened portfolio for the digital battleground. 💻  
 Always engaged in **offensive security** and **networking**, because there's no such thing as 'too prepared.' 🗼
 
-Things I am actively am working on:
+### Things I am actively am working on:
 - My Website
 - PNPT Cert
 
-Future Projects:
+### Future Projects:
 - RUST Projects
   - RAT (Remote Access Tool)
   - Fuzzer
@@ -20,7 +20,7 @@ Future Projects:
   - Exploit Development Framework
 - All in One mod for flipper zero
 
-Things I am learning:
+### Things I am learning:
 - RUST
 - Pentesting
 - OSINT
