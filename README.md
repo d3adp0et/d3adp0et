@@ -14,10 +14,10 @@ Things I am actively am working on:
 
 Future Projects:
 - RUST Projects
- - RAT (Remote Access Tool)
- - Fuzzer
- - Steganography Tool
- - Exploit Development Framework
+  - RAT (Remote Access Tool)
+  - Fuzzer
+  - Steganography Tool
+  - Exploit Development Framework
 - All in One mod for flipper zero
 
 Things I am learning:
