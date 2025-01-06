@@ -8,7 +8,26 @@
 I'm diving deep into the shadows of **RUST** and crafting a hardened portfolio for the digital battleground. 💻  
 Always engaged in **offensive security** and **networking**, because there's no such thing as 'too prepared.' 🗼
 
-## 🌐 Connect with Me:
+Things I am actively am working on:
+- My Website
+- PNPT Cert
+
+Future Projects:
+- RUST Projects
+ - RAT (Remote Access Tool)
+ - Fuzzer
+ - Steganography Tool
+ - Exploit Development Framework
+- All in One mod for flipper zero
+
+Things I am learning:
+- RUST
+- Pentesting
+- OSINT
+- Shellcode
+- Bug Bounty Hunting
+
+# 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tanmay-sharma-36663716b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Chroniclenickel)
 
 # 💻 Tech Arsenal:
