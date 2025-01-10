@@ -8,7 +8,7 @@
 I'm diving deep into the shadows of **RUST** and crafting a hardened portfolio for the digital battleground. 💻  
 Always engaged in **offensive security** and **networking**, because there's no such thing as 'too prepared.' 🗼
 
-### Things I am actively working on:
+### Current Focus Areas:
 - My Website
 - PNPT Cert
 
