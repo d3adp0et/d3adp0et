@@ -24,7 +24,7 @@ Always engaged in **offensive security** and **networking**, because there's no 
 - RUST
 - Pentesting
 - OSINT
-- Shellcode
+- Assembly
 - Bug Bounty Hunting
 
 # 🌐 Connect with Me:
