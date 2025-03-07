@@ -28,7 +28,7 @@ Always engaged in **offensive security** and **networking**, because there's no 
 - Bug Bounty Hunting
 
 # 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tanmay-sharma-36663716b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Chroniclenickel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tanmay-sharma-36663716b)
 
 # 💻 Tech Arsenal:
 
