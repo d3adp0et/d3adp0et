@@ -37,7 +37,7 @@ Always engaged in **offensive security** and **networking**, because there's no 
 # 📊 GitHub Arsenal:
 <div align="left" style="display: flex; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SirChronicle&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d3adp0et&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB" alt="GitHub Stats" />
 
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3adp0et&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB" alt="Most Used Languages" />
@@ -45,19 +45,19 @@ Always engaged in **offensive security** and **networking**, because there's no 
 
 <p align="left">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirChronicle&hide_border=true&background=000000&fire=8A2BE2&ring=9370DB&currStreakLabel=9370DB&sideNums=8A2BE2&sideLabels=9370DB&dates=D8BFD8" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3adp0et&hide_border=true&background=000000&fire=8A2BE2&ring=9370DB&currStreakLabel=9370DB&sideNums=8A2BE2&sideLabels=9370DB&dates=D8BFD8" alt="GitHub Streak Stats" />
 </p>
 
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SirChronicle&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=d3adp0et&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=darkhub)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SirChronicle&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=d3adp0et&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kevin-Aaaquil&color=blueviolet)
