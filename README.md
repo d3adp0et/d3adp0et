@@ -40,7 +40,7 @@ Always engaged in **offensive security** and **networking**, because there's no 
   <img src="https://github-readme-stats.vercel.app/api?username=SirChronicle&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB" alt="GitHub Stats" />
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirChronicle&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3adp0et&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=D8BFD8&icon_color=9370DB" alt="Most Used Languages" />
 </div>
 
 <p align="left">
