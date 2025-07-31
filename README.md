@@ -9,7 +9,7 @@ I'm diving deep into the shadows of **RUST** and crafting a hardened portfolio f
 Always engaged in **offensive security** and **networking**, because there's no such thing as 'too prepared.' 🗼
 
 ### Current Focus Areas:
-- My Website
+- Security+
 - PNPT Cert
 
 ### Future Projects:
