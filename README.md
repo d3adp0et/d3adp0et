@@ -13,15 +13,10 @@ Always engaged in **offensive security** and **networking**, because there's no 
 - PNPT Cert
 
 ### Future Projects:
-- RUST Projects
-  - RAT (Remote Access Tool)
-  - Fuzzer
-  - Steganography Tool
-  - Exploit Development Framework
-- All in One mod for flipper zero
+- CyberDeck - 1 deck to rule them all
+- Hyper secure version of the chat application
 
 ### Things I am learning:
-- RUST
 - Pentesting
 - OSINT
 - Assembly
