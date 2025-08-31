@@ -43,14 +43,7 @@ Always engaged in **offensive security** and **networking**, because there's no 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3adp0et&hide_border=true&background=000000&fire=8A2BE2&ring=9370DB&currStreakLabel=9370DB&sideNums=8A2BE2&sideLabels=9370DB&dates=D8BFD8" alt="GitHub Streak Stats" />
 </p>
 
-
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=d3adp0et&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=d3adp0et&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=d3adp0et&color=blueviolet)
